@@ -1,4 +1,5 @@
-This is the README file for the HIDKeys USB device.
+This is the README file for the OBS-Switcher USB Atmel AVR firmware
+(formerly the README file for the HIDKeys USB device)
 
 HIDKeys is an example application for implementing an USB keyboard conforming
 to the "USB Device Class Definition for Human Interface Devices (HID)". It is
